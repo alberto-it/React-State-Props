@@ -1,0 +1,12 @@
+.movies-list {
+    display: grid;
+    padding: 20px; 
+  }
+  
+  .movies-list li {
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+    list-style: none; 
+  }
+  
